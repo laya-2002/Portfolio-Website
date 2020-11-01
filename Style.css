@@ -1,0 +1,59 @@
+.body{
+   font-family: sans-serif; 
+   line-height: 26px; 
+}
+.h1{ 
+font-size: 2.5em;
+}
+.mycolor{
+   color: lightgreen;
+}
+.half-width{
+   width: 50%;
+   float: left;
+   padding-bottom: 50%;
+}
+.half{
+   width: 50%;
+   float:right;
+   padding-bottom: 50%;
+}
+.img{
+   width: 50%;
+   padding-left: 25%;
+}
+.prime{
+   color: yellow;
+   background-color: green;
+   padding: 13px 42px 13px 42px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.pro{
+   color: green;
+   background-color: yellow;
+   padding: 13px 42px 13px 42px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.container{
+   padding-left: 5%;
+   display: inline-block;
+}
+.experiences{
+   padding: 30px;
+   margin: 30px;
+   background-color: rgb(238,251,255);
+   border-radius: 20px;
+}
+.experience-item{
+   padding: 10px;
+   border-left: 1 px solid rgba(137,130,247,2);
+}
+.mail{
+   color: white;
+   background-color: red;
+   padding: 13px 42px 13px 42px;
+   border-radius: 20px;
+   text-decoration: none;
+}

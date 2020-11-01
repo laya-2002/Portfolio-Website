@@ -1,2 +1,2 @@
 # Portfolio-Website
-This is my first website.
+  This is my first code for preparing my first web page. I hope everyone will like it, as it is just the web page of a beginner.
